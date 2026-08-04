@@ -1,0 +1,3 @@
+Employee ID: 101
+Employee Name: James
+Department: Finance
