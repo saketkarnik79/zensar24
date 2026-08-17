@@ -1,0 +1,22 @@
+emp_id,name,department,job_title,location,salary,joining_date,status
+101,John,IT,Software Engineer,Mumbai,65000,2021-01-15,Active
+102,Mary,HR,HR Executive,Pune,55000,2021-03-20,Active
+103,David,Finance,Financial Analyst,Mumbai,72000,2020-06-10,Active
+104,Lisa,IT,Senior Software Engineer,Bangalore,95000,2019-08-12,Active
+105,James,Finance,Accountant,Delhi,60000,2022-01-25,Active
+106,Robert,IT,Software Engineer,Pune,68000,2022-04-18,Active
+107,Susan,HR,HR Manager,Mumbai,85000,2018-11-05,Active
+108,Michael,Sales,Sales Executive,Delhi,58000,2023-02-15,Active
+109,Sarah,Sales,Sales Manager,Mumbai,90000,2019-07-22,Active
+110,Daniel,Finance,Finance Manager,Bangalore,110000,2017-05-14,Active
+111,Emma,IT,Data Engineer,Pune,88000,2023-06-12,Active
+112,William,Sales,Sales Executive,Mumbai,62000,2022-09-10,Active
+113,Olivia,HR,Recruiter,Delhi,52000,2024-01-15,Active
+114,Thomas,IT,DevOps Engineer,Bangalore,92000,2020-12-20,Active
+115,Sophia,Finance,Financial Analyst,Pune,75000,2023-03-25,Active
+116,James,IT,Software Engineer,Mumbai,65000,2024-02-18,Active
+117,George,Sales,Sales Executive,Pune,60000,2024-04-12,Active
+118,Emily,HR,HR Executive,Mumbai,58000,2022-07-15,Inactive
+119,Henry,Finance,Accountant,Delhi,62000,2021-10-10,Active
+120,Charlotte,IT,Data Analyst,Pune,78000,2025-01-20,Active
+121,Smith,IT,Software Engineer,Pune,60000,2025-01-20,Active
