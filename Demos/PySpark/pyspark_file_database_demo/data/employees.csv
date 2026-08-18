@@ -1,0 +1,9 @@
+emp_id,name,department,salary,joining_date,city
+101,John,IT,60000,2022-01-15,Vadodara
+102,Mary,HR,55000,2021-06-20,Ahmedabad
+103,David,Finance,70000,2020-03-10,Mumbai
+104,Lisa,IT,65000,2023-02-05,Vadodara
+105,James,Finance,72000,2019-11-25,Pune
+106,Sarah,HR,58000,2022-08-18,Ahmedabad
+107,Robert,IT,68000,2021-12-10,Surat
+108,Emma,Finance,75000,2020-07-15,Mumbai
