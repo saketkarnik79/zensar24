@@ -1,0 +1,6 @@
+timestamp,ip,method,url,status,response_time,service
+2026-08-19 10:00:01,192.168.1.10,GET,/home,200,120,web
+2026-08-19 10:00:03,192.168.1.11,GET,/login,200,180,web
+2026-08-19 10:00:05,192.168.1.12,POST,/login,401,250,auth
+2026-08-19 10:00:07,192.168.1.13,GET,/products,200,95,web
+2026-08-19 10:00:10,192.168.1.14,POST,/payment,500,1800,payment

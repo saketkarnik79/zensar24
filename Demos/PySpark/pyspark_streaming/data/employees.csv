@@ -1,0 +1,16 @@
+emp_id,name,dept_id,salary,city
+101,John,10,60000,Vadodara
+102,Mary,20,55000,Ahmedabad
+103,David,30,70000,Mumbai
+104,Lisa,10,65000,Vadodara
+105,James,40,72000,Delhi
+106,Robert,50,58000,Pune
+107,Jennifer,20,62000,Mumbai
+108,Michael,20,59000,Ahmedabad
+109,Sarah,30,68000,Mumbai
+110,Daniel,10,64000,Vadodara
+111,Emma,40,75000,Delhi
+112,William,20,61000,Ahmedabad
+113,Olivia,30,71000,Mumbai
+114,James,10,66000,Vadodara
+115,Sophia,40,73000,Delhi
